@@ -1,5 +1,5 @@
 let data=[]
-let columns=["fecha","evento","analisis","texto"]
+let fields=["evento","analisis","texto"]
 
 fetch("data.json")
 .then(r=>r.json())
@@ -9,9 +9,10 @@ data=d
 
 initSelectors()
 
-renderColumn("col1","texto")
-renderColumn("col2","evento")
-renderColumn("col3","analisis")
+renderDates()
+renderColumn("col1","evento")
+renderColumn("col2","analisis")
+renderColumn("col3","texto")
 
 syncScroll()
 
@@ -23,11 +24,11 @@ function initSelectors(){
 
 let sel=document.getElementById(id)
 
-columns.forEach(c=>{
+fields.forEach(f=>{
 
 let opt=document.createElement("option")
-opt.value=c
-opt.text=c
+opt.value=f
+opt.text=f
 
 sel.appendChild(opt)
 
@@ -43,28 +44,35 @@ renderColumn("col"+(i+1),sel.value)
 
 }
 
-function renderColumn(col,field){
+function renderDates(){
 
-let div=document.getElementById(col)
-
+let div=document.getElementById("datecol")
 div.innerHTML=""
 
 data.forEach(row=>{
 
-let block=document.createElement("div")
-block.className="entry"
+let e=document.createElement("div")
+e.className="entry"
+e.innerText=row.fecha
 
-let date=document.createElement("div")
-date.className="date"
-date.innerText=row.fecha
+div.appendChild(e)
 
-let text=document.createElement("div")
-text.innerText=row[field]
+})
 
-block.appendChild(date)
-block.appendChild(text)
+}
 
-div.appendChild(block)
+function renderColumn(col,field){
+
+let div=document.getElementById(col)
+div.innerHTML=""
+
+data.forEach(row=>{
+
+let e=document.createElement("div")
+e.className="entry"
+e.innerText=row[field]
+
+div.appendChild(e)
 
 })
 
