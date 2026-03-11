@@ -1,15 +1,303 @@
+
 [
     {
-    "fecha":"17.03.1808",
-    "evento":"Motín de Aranjuez",
-    "analisis":"Conflicto entre facciones de la corte",
-    "texto":"En marzo de 1808 estalló..."
+        "fecha": "04.08.1789",
+        "evento": "Abolición de privilegios en la noche del 4 de agosto.",
+        "analisis": "Este evento marca la culminación de las libertades civiles francesas antes de su codificación definitiva.",
+        "texto": "las libertades civiles, completadas en la noche del 4 de agosto y consagradas en el Código Civil."
     },
-    
     {
-    "fecha":"19.03.1808",
-    "evento":"Abdicación de Carlos IV",
-    "analisis":"Crisis de legitimidad",
-    "texto":"Pocos días después..."
+        "fecha": "26.08.1789",
+        "evento": "Proclamación de los ideales de 1789.",
+        "analisis": "Se establece la base de los derechos humanos, aunque el autor critica que se pensaron más para la retórica que para la práctica judicial.",
+        "texto": "materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94."
+    },
+    {
+        "fecha": "15.07.1791",
+        "evento": "Decreto sobre el secuestro del rey.",
+        "analisis": "El autor califica este decreto como una mentira oficial que marcó el inicio de la opinión pública republicana en Francia.",
+        "texto": "la circunstancia francesa que rodeó el nacimiento de la opinión pública republicana, con motivo del mentiroso Decreto de 15 de julio de 1791, sobre el secuestro de un rey."
+    },
+    {
+        "fecha": "12.08.1791",
+        "evento": "Escisión de los Feuillants.",
+        "analisis": "Sucede dos meses antes de la apertura del club al público, consolidando la facción radical jacobina.",
+        "texto": "A los dos meses de la escisión de los Feuillants, los jacobinos habían logrado el favor de una nueva opinión pública popular."
+    },
+    {
+        "fecha": "12.10.1791",
+        "evento": "Apertura del club de la Rue Saint Honoré al público.",
+        "analisis": "Se institucionaliza el club como un 'tribunal de la opinión pública' para vigilar a los poderes.",
+        "texto": "el club de la Rue Saint Honoré decidió, el 12 de octubre, abrir las puertas de los jacobinos al público espectador."
+    },
+    {
+        "fecha": "13.10.1791",
+        "evento": "Nacimiento del jacobinismo como opinión organizada.",
+        "analisis": "Robespierre utiliza su genio táctico para transformar el club en una herramienta de movilización popular.",
+        "texto": "Había nacido el jacobinismo como opinión pública organizada por el genio táctico y administrativo de Robespierre."
+    },
+    {
+        "fecha": "10.08.1792",
+        "evento": "Insurrección y pronunciamiento por la República.",
+        "analisis": "Marca el momento en que Robespierre finalmente se define como republicano, siguiendo a otros líderes.",
+        "texto": "Robespierre, que sin embargo no se pronunció por la República antes del 10 de agosto, como hicieron Danton, Marat y Condorcet."
+    },
+    {
+        "fecha": "01.09.1792",
+        "evento": "Masacres de septiembre en las prisiones de París.",
+        "analisis": "La violencia física empieza a desviar el curso de la evolución de la opinión pública racional.",
+        "texto": "los episodios de las masacres de septiembre del 92 en las prisiones de París... alteraron la evolución de la opinión pública."
+    },
+    {
+        "fecha": "21.01.1793",
+        "evento": "Ejecución de Luis XVI.",
+        "analisis": "Un hito dramático que, según el texto, determinó el triunfo de la democracia social sobre la política.",
+        "texto": "el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública."
+    },
+    {
+        "fecha": "21.03.1793",
+        "evento": "Redacción del proyecto de Condorcet.",
+        "analisis": "Representa el primer esbozo de una democracia política basada en la separación de poderes.",
+        "texto": "el proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos."
+    },
+    {
+        "fecha": "01.04.1793",
+        "evento": "Traición del general Dumouriez.",
+        "analisis": "Evento que precipitó la caída de los girondinos y el descarte de su proyecto constitucional.",
+        "texto": "la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública."
+    },
+    {
+        "fecha": "02.06.1793",
+        "evento": "Liquidación de la Gironda.",
+        "analisis": "Fin de las esperanzas de establecer una democracia política y el inicio de la hegemonía de la Montaña.",
+        "texto": "la claudicación de la Convención ante la Comuna y la liquidación de la Gironda el 2 de junio del 93."
+    },
+    {
+        "fecha": "03.06.1793",
+        "evento": "Triunfo de la democracia social de la Montaña.",
+        "analisis": "Se impone una visión donde la igualdad prima sobre la libertad política institucional.",
+        "texto": "el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat."
+    },
+    {
+        "fecha": "24.06.1793",
+        "evento": "Aprobación de la Constitución de 1793.",
+        "analisis": "Aunque aprobada, el texto destaca que nunca llegó a entrar en vigor, convirtiéndose en un mito.",
+        "texto": "La suspensión de la entrada en vigor de la Constitución del 93 no fue un hecho aleatorio producido por las circunstancias."
+    },
+    {
+        "fecha": "02.10.1793",
+        "evento": "Discurso de Saint-Just sobre la insuficiencia de la Constitución.",
+        "analisis": "Saint-Just argumenta que la ley no sirve si no va acompañada de la violencia revolucionaria.",
+        "texto": "Saint-Just lo expresó sin ambages a la Convención cuatro meses después: «La Constitución devendría garantía de los atentados contra la libertad»."
+    },
+    {
+        "fecha": "10.10.1793",
+        "evento": "Declaración del Gobierno Revolucionario hasta la paz.",
+        "analisis": "Se establece la arbitrariedad de la dictadura jacobina como necesidad para salvar la revolución.",
+        "texto": "Es imposible que las leyes revolucionarias sean ejecutadas si el gobierno no es constituido revolucionariamente."
+    },
+    {
+        "fecha": "01.11.1793",
+        "evento": "Sustitución de la ley por la guillotina.",
+        "analisis": "La legalidad se abandona en favor de la dirección política de la Revolución.",
+        "texto": "Cuando Saint-Just dijo que «todo debe ser permitido a los que van en la dirección de la Revolución», la guillotina reemplazó a la ley."
+    },
+    {
+        "fecha": "01.01.1794",
+        "evento": "Establecimiento del Terror moral.",
+        "analisis": "La virtud privada se convierte en una exigencia pública impuesta por la violencia.",
+        "texto": "La dictadura incorruptible del Terror moral, el gobierno de la violencia revolucionaria era la alternativa única a la Constitución."
+    },
+    {
+        "fecha": "28.07.1794",
+        "evento": "Ejecución de Robespierre, Saint-Just y Couthon (Termidor).",
+        "analisis": "El fin del Terror restaura la libertad civil pero no la política, alejándose de los ideales de Condorcet.",
+        "texto": "cuando en el verano del 94 la reacción antiterrorista envió a la guillotina a Robespierre, Saint-Just y Couthon."
+    },
+    {
+        "fecha": "01.01.1795",
+        "evento": "Presentación de la Constitución del Año III.",
+        "analisis": "Régimen liberal pero reaccionario que busca frenar la conciencia política activa.",
+        "texto": "La Constitución liberal y reaccionaria del 95, la de los hombres del Directorio de Barras, que presentó Boisy d'Anglas."
+    },
+    {
+        "fecha": "01.02.1795",
+        "evento": "Énfasis en los deberes del ciudadano.",
+        "analisis": "La nueva Constitución intenta despolitizar a la opinión pública centrando el foco en los deberes.",
+        "texto": "puso el acento sobre los deberes del ciudadano para frenar la conciencia política en la opinión pública."
+    },
+    {
+        "fecha": "01.11.1795",
+        "evento": "Consolidación del Directorio de Barras.",
+        "analisis": "Nacimiento de una clase política 'perpetua' que hace indeseable la libertad política para el ciudadano.",
+        "texto": "la libertad política, convertida en oligopolio de los que se llamó «perpetuos», se hizo indeseable para los gobernados."
+    },
+    {
+        "fecha": "01.01.1800",
+        "evento": "Formación del Estado moderno y parlamentarismo europeo.",
+        "analisis": "Basado en el modelo del Directorio, carente de verdadera separación de poderes.",
+        "texto": "Este fue el modelo constitucional que fundó el Estado moderno y el parlamentarismo europeo."
+    },
+    {
+        "fecha": "18.05.1804",
+        "evento": "Establecimiento del Imperio hereditario napoleónico.",
+        "analisis": "El plebiscito popular se utiliza para enterrar la República en favor del cesarismo.",
+        "texto": "cuando Napoleón estableció por plebiscito popular el carácter hereditario de su cesarismo."
+    },
+    {
+        "fecha": "01.01.1815",
+        "evento": "Inicio de la Restauración y creación de mitos historiográficos.",
+        "analisis": "Los historiadores empiezan a crear leyendas sobre la Revolución para fines políticos actuales.",
+        "texto": "Fueron los historiadores de la Revolución los que originaron esa leyenda para dar fundamento y credibilidad a la oposición."
+    },
+    {
+        "fecha": "01.01.1820",
+        "evento": "Oposición liberal durante la Restauración.",
+        "analisis": "Figuras como Guizot reconstruyen la historia para favorecer la monarquía constitucional.",
+        "texto": "formar una opinión pública propicia a las causas de oposición política... liberal (Benjamín Constant, Guizot, Thiers, Mignet)."
+    },
+    {
+        "fecha": "01.01.1840",
+        "evento": "Auge de la oposición socialista bajo la Monarquía de Julio.",
+        "analisis": "La historiografía de Michelet y Blanc prepara el terreno para la II República.",
+        "texto": "a la II República, de orientación socialista (Michelet, Lamartine, Louis Blanc)."
+    },
+    {
+        "fecha": "24.02.1848",
+        "evento": "Proclamación de la II República Francesa.",
+        "analisis": "Nace bajo la influencia de la leyenda izquierdista de la Montaña.",
+        "texto": "en la historiografía francesa se pueden seguir paso a paso las reconstrucciones ideológicas... a la II República."
+    },
+    {
+        "fecha": "01.01.1852",
+        "evento": "Oficialización de la farsa republicana con el II Imperio.",
+        "analisis": "Uso de formas republicanas para sostener un régimen autoritario.",
+        "texto": "La farsa republicana se oficializó plenamente con el II Imperio."
+    },
+    {
+        "fecha": "01.01.1860",
+        "evento": "Oposición republicana en el II Imperio.",
+        "analisis": "Surge una nueva ola de mitos para combatir el reformismo de Napoleón III.",
+        "texto": "a la oposición republicana en el momento reformista del II Imperio."
+    },
+    {
+        "fecha": "01.01.1863",
+        "evento": "Hannah Arendt publica 'Sobre la Revolución'.",
+        "analisis": "Critica que Europa no comprendió el éxito de la democracia americana frente al fracaso francés.",
+        "texto": "Nadie lo ha visto mejor que Hannah Arendt en su ensayo Sobre la Revolución (1963)."
+    },
+    {
+        "fecha": "01.01.1865",
+        "evento": "Previsión de Edgar Quinet sobre las democracias serviles.",
+        "analisis": "Quinet advierte que las democracias europeas tenderán inevitablemente a lo arbitrario.",
+        "texto": "Donde se ha cumplido la previsión que hizo Quinet en 1865: «Producir inmensas democracias serviles que gravitarán incesantemente hacia lo arbitrario»."
+    },
+    {
+        "fecha": "04.09.1870",
+        "evento": "Comienzo de la III República Francesa.",
+        "analisis": "El autor la sitúa como el inicio de la impostura de la democracia parlamentaria.",
+        "texto": "la impostura de la democracia liberal o parlamentaria comenzó con la III República."
+    },
+    {
+        "fecha": "01.01.1875",
+        "evento": "Inicio de la síntesis republicana.",
+        "analisis": "Se intenta unir el liberalismo del 89 con el positivismo autoritario.",
+        "texto": "La famosa síntesis republicana de 1875-1880, la de los derechos del hombre y el gobierno de los saberes positivos."
+    },
+    {
+        "fecha": "01.01.1880",
+        "evento": "Reformas educativas de Jules Ferry.",
+        "analisis": "La síntesis republicana se limita al ámbito educativo sin cambiar las instituciones de poder.",
+        "texto": "la ciencia positiva de Comte, no trascendió del campo educativo abordado por Ferry."
+    },
+    {
+        "fecha": "14.07.1889",
+        "evento": "Primer Centenario de la Revolución y discurso de Clemenceau.",
+        "analisis": "Clemenceau impone la idea de que la Revolución debe aceptarse como un todo, incluyendo el Terror.",
+        "texto": "El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución."
+    },
+    {
+        "fecha": "01.01.1890",
+        "evento": "Creación de la cátedra de la Revolución en la Sorbona.",
+        "analisis": "Aulard institucionaliza el mito de la democracia francesa vinculándolo a la Constitución del 93.",
+        "texto": "creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa."
+    },
+    {
+        "fecha": "01.01.1891",
+        "evento": "Suspensión de la obra teatral de Victorien Sardou.",
+        "analisis": "Censura en nombre de la legitimidad del 'bloque' revolucionario contra la crítica histórica.",
+        "texto": "se llegó a suspender una obra teatral del dramaturgo Sardou, sobre los termidorianos, en nombre de la legitimidad."
+    },
+    {
+        "fecha": "01.01.1901",
+        "evento": "Polémica de Boutmy contra Jellinek.",
+        "analisis": "Defensa de la originalidad francesa frente a la influencia americana en los derechos humanos.",
+        "texto": "reacción iniciada por Boutmy a principios de siglo, contra las tesis de Jellinek sobre el origen religioso."
+    },
+    {
+        "fecha": "01.01.1936",
+        "evento": "Cristalización del Frente Popular.",
+        "analisis": "Consolidación de la historiografía de clase que idealiza el movimiento de los sans-culottes.",
+        "texto": "al movimiento clasista que cristalizó en el Frente Popular (Jaurès, Mathiez, Lefebvre)."
+    },
+    {
+        "fecha": "01.01.1942",
+        "evento": "Advertencia de Friedrich sobre el acuerdo fundamental.",
+        "analisis": "Friedrich señala que exigir un consenso total es el camino al totalitarismo.",
+        "texto": "Tenía razón Friedrich cuando afirmaba en 1942 que demandar un acuerdo sobre lo fundamental podía ser «un primer paso hacia el totalitarismo»."
+    },
+    {
+        "fecha": "08.05.1945",
+        "evento": "Fin de la Guerra Mundial y teoría de la Revolución Atlántica.",
+        "analisis": "Intento de unificar artificialmente las revoluciones americana y europea para legitimar la hegemonía occidental.",
+        "texto": "se elaboró una nueva historia de la «revolución atlántica» con la finalidad de encuadrar las revoluciones europeas y americana."
+    },
+    {
+        "fecha": "23.02.1981",
+        "evento": "Intento de golpe de Estado en España (23-F).",
+        "analisis": "El autor lo compara con la mentira francesa de 1791 como un consenso que oculta la verdad.",
+        "texto": "la circunstancia española del 23-F, donde el consenso de los editores de la opinión pública proclamó el dogma de un rey salvador."
+    },
+    {
+        "fecha": "01.01.1983",
+        "evento": "Estudio de Blanning sobre la expansión francesa.",
+        "analisis": "Desmitifica la revolución democrática europea, viéndola solo como expansión militar de la República.",
+        "texto": "Lo que es descrito por la escuela atlantista como una gran revolución democrática, fue en realidad nada más que la expansión militar."
+    },
+    {
+        "fecha": "01.01.1988",
+        "evento": "Publicación del Dictionnaire critique de la Révolution française.",
+        "analisis": "Furet y Ozouf refuerzan el mito democrático a pesar de la evidencia histórica contraria.",
+        "texto": "El mito de la revolución democrática no sólo sigue vigente. Ha sido reforzado en el Dictionnaire critique de la Révolution française."
+    },
+    {
+        "fecha": "14.07.1989",
+        "evento": "Bicentenario de la Revolución Francesa.",
+        "analisis": "El autor critica la falta de rigor intelectual en la gran producción editorial de esta efeméride.",
+        "texto": "la historiografía actual sobre la Revolución, al abandonar el método marxista, ha perdido en rigor intelectual."
+    },
+    {
+        "fecha": "09.11.1989",
+        "evento": "Derrumbamiento del muro de Berlín.",
+        "analisis": "Coincidencia temporal que resalta el contraste entre el colapso del bloque soviético y el mito revolucionario francés.",
+        "texto": "Al coincidir el derrumbamiento del muro de Berlín con el segundo centenario de la Revolución francesa."
+    },
+    {
+        "fecha": "01.01.1991",
+        "evento": "James Ceaser y el ideal francés frente al americano.",
+        "analisis": "Se destaca la diferencia entre la democracia institucional y la retórica sentimental europea.",
+        "texto": "Allí, democracia institucional; aquí, «un ideal más elevado» (James Ceaser, 1991), en retórica sentimental."
+    },
+    {
+        "fecha": "01.01.1793",
+        "evento": "Debate sobre el derecho a la insurrección.",
+        "analisis": "Condorcet y Robespierre chocan sobre la posibilidad de legalizar la rebelión.",
+        "texto": "El debate entre Condorcet y Robespierre sobre la posibilidad o imposibilidad de institucionalizar el derecho a la insurrección."
+    },
+    {
+        "fecha": "01.11.1793",
+        "evento": "Ruptura definitiva con los ideales del 89.",
+        "analisis": "El jacobinismo se aleja de la libertad de asociación y opinión para imponer su 'espíritu público'.",
+        "texto": "La ruptura jacobina con los ideales del 89 no podía ser más evidente."
     }
-    ]
+]
