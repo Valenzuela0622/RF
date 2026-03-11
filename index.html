@@ -1,43 +1,41 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Visor histórico interactivo</title>
+<title>Visor Histórico Interactivo</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <div class="controls">
+  <strong>Columnas:</strong>
+  <button onclick="setLayout(1)">1</button>
+  <button onclick="setLayout(2)">2</button>
+  <button onclick="setLayout(3)">3</button>
 
-Columnas:
-<button onclick="setLayout(1)">1</button>
-<button onclick="setLayout(2)">2</button>
-<button onclick="setLayout(3)">3</button>
+  <label>Columna 1:
+    <select id="sel1"></select>
+  </label>
 
-Columna 1:
-<select id="sel1"></select>
+  <label>Columna 2:
+    <select id="sel2"></select>
+  </label>
 
-Columna 2:
-<select id="sel2"></select>
-
-Columna 3:
-<select id="sel3"></select>
-
+  <label>Columna 3:
+    <select id="sel3"></select>
+  </label>
 </div>
 
 <div class="container">
 
-<div class="column datecol" id="datecol"></div>
-
-<div class="column blue" id="col1"></div>
-<div class="column white" id="col2"></div>
-<div class="column red" id="col3"></div>
+  <div class="column datecol" id="datecol"></div>
+  <div class="column blue" id="col1"></div>
+  <div class="column white" id="col2"></div>
+  <div class="column red" id="col3"></div>
 
 </div>
 
 <script src="script.js"></script>
-
 </body>
 </html>
