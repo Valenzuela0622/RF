@@ -1,11 +1,17 @@
 let data = [];
 let fields = ["evento", "analisis", "texto"];
 
-// Cargar dataset
+// Cargar dataset y ordenar por fecha
 fetch("data.json")
   .then(r => r.json())
   .then(d => {
-    data = d;
+    data = d.sort((a,b)=>{
+      const da = a.fecha.split('.');
+      const db = b.fecha.split('.');
+      const dateA = new Date(`${da[2]}-${da[1]}-${da[0]}`);
+      const dateB = new Date(`${db[2]}-${db[1]}-${db[0]}`);
+      return dateA - dateB;
+    });
 
     initSelectors();
     renderRows();
@@ -13,7 +19,7 @@ fetch("data.json")
 
 // Inicializar selectores de columna
 function initSelectors() {
-  ["sel1","sel2","sel3"].forEach((id, i) => {
+  ["sel1","sel2","sel3"].forEach((id) => {
     const sel = document.getElementById(id);
     fields.forEach(f => {
       const opt = document.createElement("option");
@@ -31,7 +37,7 @@ function setLayout(n) {
   const rows = document.querySelectorAll(".row");
   rows.forEach(row => {
     for (let i = 0; i < 3; i++) {
-      const cell = row.children[i+1]; // +1 porque 0 = fecha
+      const cell = row.children[i+1]; // 0 = fecha
       if(cell) cell.style.display = (i < n) ? "block" : "none";
     }
   });
