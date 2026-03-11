@@ -92,26 +92,34 @@ c.style.display = (i<=n) ? "block" : "none"
 
 function syncScroll(){
 
-let cols=document.querySelectorAll(".column")
-
-cols.forEach(c=>{
-
-c.addEventListener("scroll",()=>{
-
-let ratio=c.scrollTop/(c.scrollHeight-c.clientHeight)
-
-cols.forEach(o=>{
-
-if(o!==c){
-
-o.scrollTop=ratio*(o.scrollHeight-o.clientHeight)
-
+const cols = document.querySelectorAll(".column")
+    
+let isSyncing = false
+    
+cols.forEach(col => {
+    
+col.addEventListener("scroll", () => {
+    
+if(isSyncing) return
+    
+isSyncing = true
+    
+const ratio = col.scrollTop / (col.scrollHeight - col.clientHeight)
+    
+cols.forEach(other => {
+    
+if(other !== col){
+    
+other.scrollTop = ratio * (other.scrollHeight - other.clientHeight)
+    
 }
-
+    
 })
-
+    
+isSyncing = false
+    
 })
-
+    
 })
-
+    
 }
