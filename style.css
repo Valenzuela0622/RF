@@ -14,48 +14,35 @@ body{
   z-index:5;
 }
 
+/* Contenedor de filas */
 .container{
   display:flex;
+  flex-direction: column;
+  width:100%;
 }
 
-.column{
-  flex:1;
-  padding:20px;
-  box-sizing:border-box;
-}
-
-.datecol{
-  flex:0.6;
-  background:#f5f5f5;
-  font-weight:bold;
-}
-
-/* Colores de la bandera francesa */
-.blue{
-  background:#1f3c88;
-  color:white;
-}
-
-.white{
-  background:white;
-  color:black;
-}
-
-.red{
-  background:#b22234;
-  color:white;
-}
-
-/* Entradas de fila */
-.entry{
-  margin-bottom:20px;
-  padding:10px;
+/* Cada fila */
+.row{
+  display:flex;
   border-bottom:1px solid rgba(0,0,0,0.1);
   transition: background 0.2s;
-  box-sizing: border-box;
 }
 
-/* Resalte al pasar el ratón */
-.entry:hover{
-  background: rgba(255, 255, 0, 0.2); /* amarillo suave */
+/* Celda individual */
+.cell{
+  padding:10px;
+  box-sizing:border-box;
+  border-right:1px solid rgba(0,0,0,0.1);
+  word-break: break-word;
+}
+
+/* Columnas */
+.date{flex:0.6; background:#f5f5f5; font-weight:bold;}
+.blue{flex:1; background:#1f3c88; color:white;}
+.white{flex:1; background:white; color:black;}
+.red{flex:1; background:#b22234; color:white;}
+
+/* Resalte de fila */
+.row:hover .cell{
+  background: rgba(255,255,0,0.3);
 }
