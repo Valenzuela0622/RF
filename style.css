@@ -42,7 +42,3 @@ body{
 .white{flex:1; background:white; color:black;}
 .red{flex:1; background:#b22234; color:white;}
 
-/* Resalte de fila */
-.row:hover .cell{
-  background: rgba(200,200,200,0.3);
-}
