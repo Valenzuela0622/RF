@@ -9,8 +9,8 @@
 {
     	"fecha": "01.02.1787",
     	"evento": "Asamblea de Notables",
-    	"analisis": "La Asamblea de Notables ejemplifica que los debates metafísicos y abstractos propios de la Ilustración no podían responder a los problemas políticos de Francia, abriendo la puerta a un cambio en el tipo de opinión pública y a la revolución política.",
-    	"texto": "El momento ilustrado y reformista de la opinión perdura desde la Asamblea de Notables de 1787, cuyo fracaso motivó la convocatoria de los Estados Generales, hasta la huida del rey a Varennes el 21 de junio de 1791."
+    	"analisis": "La Asamblea de Notables, más preocupada por debates metafísicos sobre la soberanía, la voluntad popular o el origen de los privilegios estamentales, fue incapaz de afrontar los problemas políticos de Francia. Según García-Trevijano, esta fue la causa de que la opinión pública ilustrada y reformista terminara desapareciendo, siendo sustituida años más tarde por una opinión popular de carácter revolucionario.",
+        "texto": "El momento ilustrado y reformista de la opinión perdura desde la Asamblea de Notables de 1787, cuyo fracaso motivó la convocatoria de los Estados Generales, hasta la huida del rey a Varennes el 21 de junio de 1791."
 	},
 {
     	"fecha": "21.06.1791",
@@ -75,7 +75,7 @@
 {
     	"fecha": "18.07.1791",
     	"evento": "Robespierre rechaza la Constitución",
-    	"analisis": "Buscando argumentos para ello, Robespierre decide que lo importante no es Constitución, sino los principios que la inspiran.",
+    	"analisis": "Buscando argumentos para ello, Robespierre decide que lo importante no es la Constitución, sino los principios que la inspiran.",
     	"texto": "El día 18, Robespierre proclama, en otra circular, la lealtad de los jacobinos no a la legalidad de la Constitución, sino a la legitimidad de unos principios propios a fundar una Constitución."
 	},
 
@@ -102,14 +102,14 @@
 {
     	"fecha": "12.10.1791",
     	"evento": "Los Jacobinos abren sus puertas al público general",
-    	"analisis": ".",
+    	"analisis": "La estrategia de los jacobinos consistía en castigar todas las violaciones de la Declaración de los Derechos del Hombre y del Ciudadano mediante un tribunal de orden público dirigido por ellos mismos, al margen de las instituciones francesas. Para reforzar la autoridad de este tribunal y de su propio club, decidieron hacerlo público a todos los ciudadanos.",
     	"texto": "En el mes de septiembre los jacobinos, que se habían aliado con dieciséis sociedades parisinas favorables a la República, hacen suyo el artículo del reglamento de los Cordeliers, que ordenaba denunciar al tribunal de la opinión pública los abusos de los diferentes poderes, y cualquier especie de atentado o violación a los derechos del hombre. Y para que ese nuevo tribunal no fuera una instancia retórica, el club de la Rue Saint Honoré decidió, el 12 de octubre, abrir las puertas de los jacobinos al público espectador"
 	},
 
 {
     	"fecha": "20.06.1789",
     	"evento": "Juramento del Juego de Pelota",
-    	"analisis": ".",
+    	"analisis": "El fracaso de la opinión reformista e ilustrada se produce por la incomprensión del pueblo francés respecto a la opinión de sus representantes (opinión institucional). García-Trevijano aporta el ejemplo de que la asamblea se negó a repartir armas al pueblo para defenderse frente a los ejércitos extranjeros, basándose en que esa cuestión debía corresponder al poder ejecutivo, que en ese momento pertenecía al rey Luis XVI, quien de hecho estaba conspirando con los mismos ejércitos que pretendían atacar París",
     	"texto": "Aunque la diputación bretona tuvo la mayor determinación política en la fase reformista, lo cierto es que desde junio del 89 comenzó ya la incomprensión de la Asamblea, dominada por una opinión pública abstracta y racional, respecto a las necesidades prácticas cuya solución reclamaba el comité de electores de París, instalado en la Comuna del Antiguo Régimen, y en el que se encontraban hombres tan significativos como Danton."
 	},
 {
@@ -133,7 +133,7 @@
 {
     	"fecha": "05.04.1793",
     	"evento": "Traición del general Dumouriez",
-    	"analisis": ".",
+    	"analisis": "El general Dumouriez, uno de los más capacitados de Francia, había ostentado anteriormente el cargo de ministro de Guerra de Luis XVI y era mirado con recelo por parte de los jacobinos. Consciente de que una derrota militar acabaría con su carrera, tomó la decisión de arrestar a los comisarios jacobinos que lo vigilaban e intentó marchar sobre París para acabar con la revolución. Esto no hizo sino radicalizar aún más a la opinión popular.",
     	"texto": "Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad. Pero los episodios de las masacres de septiembre del 92 en las prisiones de París, el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública. Fueron estos hechos dramáticos, y no la confrontación política de las ideas, los que determinaron el descarte del proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos, y el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat."
 	},
 {
@@ -151,12 +151,6 @@
 {
     	"fecha": "10.10.1793",
     	"evento": "Discurso de Saint-Just a la Convención 1 cita",
-    	"analisis": ".",
-    	"texto": "Saint-Just lo expresó sin ambages a la Convención cuatro meses después: «La Constitución devendría garantía de los atentados contra la libertad, porque carecería de la violencia necesaria para reprimirlos. Es imposible que las leyes revolucionarias sean ejecutadas si el gobierno no es constituido revolucionariamente.» La arbitrariedad del poder monárquico, que los constituyentes del 89 quisieron suprimir, retornó al escenario de la Revolución con la arbitrariedad de la dictadura jacobina. Cuando Saint-Just dijo que «todo debe ser permitido a los que van en la dirección de la Revolución», la guillotina reemplazó a la ley como instrumento revolucionario."
-	},
-{
-    	"fecha": "26.02.1794",
-    	"evento": "Discurso de Saint-Just a la Convención 2 cita",
     	"analisis": ".",
     	"texto": "Saint-Just lo expresó sin ambages a la Convención cuatro meses después: «La Constitución devendría garantía de los atentados contra la libertad, porque carecería de la violencia necesaria para reprimirlos. Es imposible que las leyes revolucionarias sean ejecutadas si el gobierno no es constituido revolucionariamente.» La arbitrariedad del poder monárquico, que los constituyentes del 89 quisieron suprimir, retornó al escenario de la Revolución con la arbitrariedad de la dictadura jacobina. Cuando Saint-Just dijo que «todo debe ser permitido a los que van en la dirección de la Revolución», la guillotina reemplazó a la ley como instrumento revolucionario."
 	},
