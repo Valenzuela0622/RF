@@ -1,303 +1,205 @@
 
 [
-    {
-        "fecha": "04.08.1789",
-        "evento": "Abolición de privilegios en la noche del 4 de agosto.",
-        "analisis": "Este evento marca la culminación de las libertades civiles francesas antes de su codificación definitiva.",
-        "texto": "las libertades civiles, completadas en la noche del 4 de agosto y consagradas en el Código Civil."
-    },
-    {
-        "fecha": "26.08.1789",
-        "evento": "Proclamación de los ideales de 1789.",
-        "analisis": "Se establece la base de los derechos humanos, aunque el autor critica que se pensaron más para la retórica que para la práctica judicial.",
-        "texto": "materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94."
-    },
-    {
-        "fecha": "15.07.1791",
-        "evento": "Decreto sobre el secuestro del rey.",
-        "analisis": "El autor califica este decreto como una mentira oficial que marcó el inicio de la opinión pública republicana en Francia.",
-        "texto": "la circunstancia francesa que rodeó el nacimiento de la opinión pública republicana, con motivo del mentiroso Decreto de 15 de julio de 1791, sobre el secuestro de un rey."
-    },
-    {
-        "fecha": "12.08.1791",
-        "evento": "Escisión de los Feuillants.",
-        "analisis": "Sucede dos meses antes de la apertura del club al público, consolidando la facción radical jacobina.",
-        "texto": "A los dos meses de la escisión de los Feuillants, los jacobinos habían logrado el favor de una nueva opinión pública popular."
-    },
-    {
-        "fecha": "12.10.1791",
-        "evento": "Apertura del club de la Rue Saint Honoré al público.",
-        "analisis": "Se institucionaliza el club como un 'tribunal de la opinión pública' para vigilar a los poderes.",
-        "texto": "el club de la Rue Saint Honoré decidió, el 12 de octubre, abrir las puertas de los jacobinos al público espectador."
-    },
-    {
-        "fecha": "13.10.1791",
-        "evento": "Nacimiento del jacobinismo como opinión organizada.",
-        "analisis": "Robespierre utiliza su genio táctico para transformar el club en una herramienta de movilización popular.",
-        "texto": "Había nacido el jacobinismo como opinión pública organizada por el genio táctico y administrativo de Robespierre."
-    },
-    {
-        "fecha": "10.08.1792",
-        "evento": "Insurrección y pronunciamiento por la República.",
-        "analisis": "Marca el momento en que Robespierre finalmente se define como republicano, siguiendo a otros líderes.",
-        "texto": "Robespierre, que sin embargo no se pronunció por la República antes del 10 de agosto, como hicieron Danton, Marat y Condorcet."
-    },
-    {
-        "fecha": "01.09.1792",
-        "evento": "Masacres de septiembre en las prisiones de París.",
-        "analisis": "La violencia física empieza a desviar el curso de la evolución de la opinión pública racional.",
-        "texto": "los episodios de las masacres de septiembre del 92 en las prisiones de París... alteraron la evolución de la opinión pública."
-    },
-    {
-        "fecha": "21.01.1793",
-        "evento": "Ejecución de Luis XVI.",
-        "analisis": "Un hito dramático que, según el texto, determinó el triunfo de la democracia social sobre la política.",
-        "texto": "el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública."
-    },
-    {
-        "fecha": "21.03.1793",
-        "evento": "Redacción del proyecto de Condorcet.",
-        "analisis": "Representa el primer esbozo de una democracia política basada en la separación de poderes.",
-        "texto": "el proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos."
-    },
-    {
-        "fecha": "01.04.1793",
-        "evento": "Traición del general Dumouriez.",
-        "analisis": "Evento que precipitó la caída de los girondinos y el descarte de su proyecto constitucional.",
-        "texto": "la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública."
-    },
-    {
-        "fecha": "02.06.1793",
-        "evento": "Liquidación de la Gironda.",
-        "analisis": "Fin de las esperanzas de establecer una democracia política y el inicio de la hegemonía de la Montaña.",
-        "texto": "la claudicación de la Convención ante la Comuna y la liquidación de la Gironda el 2 de junio del 93."
-    },
-    {
-        "fecha": "03.06.1793",
-        "evento": "Triunfo de la democracia social de la Montaña.",
-        "analisis": "Se impone una visión donde la igualdad prima sobre la libertad política institucional.",
-        "texto": "el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat."
-    },
-    {
-        "fecha": "24.06.1793",
-        "evento": "Aprobación de la Constitución de 1793.",
-        "analisis": "Aunque aprobada, el texto destaca que nunca llegó a entrar en vigor, convirtiéndose en un mito.",
-        "texto": "La suspensión de la entrada en vigor de la Constitución del 93 no fue un hecho aleatorio producido por las circunstancias."
-    },
-    {
-        "fecha": "02.10.1793",
-        "evento": "Discurso de Saint-Just sobre la insuficiencia de la Constitución.",
-        "analisis": "Saint-Just argumenta que la ley no sirve si no va acompañada de la violencia revolucionaria.",
-        "texto": "Saint-Just lo expresó sin ambages a la Convención cuatro meses después: «La Constitución devendría garantía de los atentados contra la libertad»."
-    },
-    {
-        "fecha": "10.10.1793",
-        "evento": "Declaración del Gobierno Revolucionario hasta la paz.",
-        "analisis": "Se establece la arbitrariedad de la dictadura jacobina como necesidad para salvar la revolución.",
-        "texto": "Es imposible que las leyes revolucionarias sean ejecutadas si el gobierno no es constituido revolucionariamente."
-    },
-    {
-        "fecha": "01.11.1793",
-        "evento": "Sustitución de la ley por la guillotina.",
-        "analisis": "La legalidad se abandona en favor de la dirección política de la Revolución.",
-        "texto": "Cuando Saint-Just dijo que «todo debe ser permitido a los que van en la dirección de la Revolución», la guillotina reemplazó a la ley."
-    },
-    {
-        "fecha": "01.01.1794",
-        "evento": "Establecimiento del Terror moral.",
-        "analisis": "La virtud privada se convierte en una exigencia pública impuesta por la violencia.",
-        "texto": "La dictadura incorruptible del Terror moral, el gobierno de la violencia revolucionaria era la alternativa única a la Constitución."
-    },
-    {
-        "fecha": "28.07.1794",
-        "evento": "Ejecución de Robespierre, Saint-Just y Couthon (Termidor).",
-        "analisis": "El fin del Terror restaura la libertad civil pero no la política, alejándose de los ideales de Condorcet.",
-        "texto": "cuando en el verano del 94 la reacción antiterrorista envió a la guillotina a Robespierre, Saint-Just y Couthon."
-    },
-    {
-        "fecha": "01.01.1795",
-        "evento": "Presentación de la Constitución del Año III.",
-        "analisis": "Régimen liberal pero reaccionario que busca frenar la conciencia política activa.",
-        "texto": "La Constitución liberal y reaccionaria del 95, la de los hombres del Directorio de Barras, que presentó Boisy d'Anglas."
-    },
-    {
-        "fecha": "01.02.1795",
-        "evento": "Énfasis en los deberes del ciudadano.",
-        "analisis": "La nueva Constitución intenta despolitizar a la opinión pública centrando el foco en los deberes.",
-        "texto": "puso el acento sobre los deberes del ciudadano para frenar la conciencia política en la opinión pública."
-    },
-    {
-        "fecha": "01.11.1795",
-        "evento": "Consolidación del Directorio de Barras.",
-        "analisis": "Nacimiento de una clase política 'perpetua' que hace indeseable la libertad política para el ciudadano.",
-        "texto": "la libertad política, convertida en oligopolio de los que se llamó «perpetuos», se hizo indeseable para los gobernados."
-    },
-    {
-        "fecha": "01.01.1800",
-        "evento": "Formación del Estado moderno y parlamentarismo europeo.",
-        "analisis": "Basado en el modelo del Directorio, carente de verdadera separación de poderes.",
-        "texto": "Este fue el modelo constitucional que fundó el Estado moderno y el parlamentarismo europeo."
-    },
-    {
-        "fecha": "18.05.1804",
-        "evento": "Establecimiento del Imperio hereditario napoleónico.",
-        "analisis": "El plebiscito popular se utiliza para enterrar la República en favor del cesarismo.",
-        "texto": "cuando Napoleón estableció por plebiscito popular el carácter hereditario de su cesarismo."
-    },
-    {
-        "fecha": "01.01.1815",
-        "evento": "Inicio de la Restauración y creación de mitos historiográficos.",
-        "analisis": "Los historiadores empiezan a crear leyendas sobre la Revolución para fines políticos actuales.",
-        "texto": "Fueron los historiadores de la Revolución los que originaron esa leyenda para dar fundamento y credibilidad a la oposición."
-    },
-    {
-        "fecha": "01.01.1820",
-        "evento": "Oposición liberal durante la Restauración.",
-        "analisis": "Figuras como Guizot reconstruyen la historia para favorecer la monarquía constitucional.",
-        "texto": "formar una opinión pública propicia a las causas de oposición política... liberal (Benjamín Constant, Guizot, Thiers, Mignet)."
-    },
-    {
-        "fecha": "01.01.1840",
-        "evento": "Auge de la oposición socialista bajo la Monarquía de Julio.",
-        "analisis": "La historiografía de Michelet y Blanc prepara el terreno para la II República.",
-        "texto": "a la II República, de orientación socialista (Michelet, Lamartine, Louis Blanc)."
-    },
-    {
-        "fecha": "24.02.1848",
-        "evento": "Proclamación de la II República Francesa.",
-        "analisis": "Nace bajo la influencia de la leyenda izquierdista de la Montaña.",
-        "texto": "en la historiografía francesa se pueden seguir paso a paso las reconstrucciones ideológicas... a la II República."
-    },
-    {
-        "fecha": "01.01.1852",
-        "evento": "Oficialización de la farsa republicana con el II Imperio.",
-        "analisis": "Uso de formas republicanas para sostener un régimen autoritario.",
-        "texto": "La farsa republicana se oficializó plenamente con el II Imperio."
-    },
-    {
-        "fecha": "01.01.1860",
-        "evento": "Oposición republicana en el II Imperio.",
-        "analisis": "Surge una nueva ola de mitos para combatir el reformismo de Napoleón III.",
-        "texto": "a la oposición republicana en el momento reformista del II Imperio."
-    },
-    {
-        "fecha": "01.01.1863",
-        "evento": "Hannah Arendt publica 'Sobre la Revolución'.",
-        "analisis": "Critica que Europa no comprendió el éxito de la democracia americana frente al fracaso francés.",
-        "texto": "Nadie lo ha visto mejor que Hannah Arendt en su ensayo Sobre la Revolución (1963)."
-    },
-    {
-        "fecha": "01.01.1865",
-        "evento": "Previsión de Edgar Quinet sobre las democracias serviles.",
-        "analisis": "Quinet advierte que las democracias europeas tenderán inevitablemente a lo arbitrario.",
-        "texto": "Donde se ha cumplido la previsión que hizo Quinet en 1865: «Producir inmensas democracias serviles que gravitarán incesantemente hacia lo arbitrario»."
-    },
-    {
-        "fecha": "04.09.1870",
-        "evento": "Comienzo de la III República Francesa.",
-        "analisis": "El autor la sitúa como el inicio de la impostura de la democracia parlamentaria.",
-        "texto": "la impostura de la democracia liberal o parlamentaria comenzó con la III República."
-    },
-    {
-        "fecha": "01.01.1875",
-        "evento": "Inicio de la síntesis republicana.",
-        "analisis": "Se intenta unir el liberalismo del 89 con el positivismo autoritario.",
-        "texto": "La famosa síntesis republicana de 1875-1880, la de los derechos del hombre y el gobierno de los saberes positivos."
-    },
-    {
-        "fecha": "01.01.1880",
-        "evento": "Reformas educativas de Jules Ferry.",
-        "analisis": "La síntesis republicana se limita al ámbito educativo sin cambiar las instituciones de poder.",
-        "texto": "la ciencia positiva de Comte, no trascendió del campo educativo abordado por Ferry."
-    },
-    {
-        "fecha": "14.07.1889",
-        "evento": "Primer Centenario de la Revolución y discurso de Clemenceau.",
-        "analisis": "Clemenceau impone la idea de que la Revolución debe aceptarse como un todo, incluyendo el Terror.",
-        "texto": "El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución."
-    },
-    {
-        "fecha": "01.01.1890",
-        "evento": "Creación de la cátedra de la Revolución en la Sorbona.",
-        "analisis": "Aulard institucionaliza el mito de la democracia francesa vinculándolo a la Constitución del 93.",
-        "texto": "creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa."
-    },
-    {
-        "fecha": "01.01.1891",
-        "evento": "Suspensión de la obra teatral de Victorien Sardou.",
-        "analisis": "Censura en nombre de la legitimidad del 'bloque' revolucionario contra la crítica histórica.",
-        "texto": "se llegó a suspender una obra teatral del dramaturgo Sardou, sobre los termidorianos, en nombre de la legitimidad."
-    },
-    {
-        "fecha": "01.01.1901",
-        "evento": "Polémica de Boutmy contra Jellinek.",
-        "analisis": "Defensa de la originalidad francesa frente a la influencia americana en los derechos humanos.",
-        "texto": "reacción iniciada por Boutmy a principios de siglo, contra las tesis de Jellinek sobre el origen religioso."
-    },
-    {
-        "fecha": "01.01.1936",
-        "evento": "Cristalización del Frente Popular.",
-        "analisis": "Consolidación de la historiografía de clase que idealiza el movimiento de los sans-culottes.",
-        "texto": "al movimiento clasista que cristalizó en el Frente Popular (Jaurès, Mathiez, Lefebvre)."
-    },
-    {
-        "fecha": "01.01.1942",
-        "evento": "Advertencia de Friedrich sobre el acuerdo fundamental.",
-        "analisis": "Friedrich señala que exigir un consenso total es el camino al totalitarismo.",
-        "texto": "Tenía razón Friedrich cuando afirmaba en 1942 que demandar un acuerdo sobre lo fundamental podía ser «un primer paso hacia el totalitarismo»."
-    },
-    {
-        "fecha": "08.05.1945",
-        "evento": "Fin de la Guerra Mundial y teoría de la Revolución Atlántica.",
-        "analisis": "Intento de unificar artificialmente las revoluciones americana y europea para legitimar la hegemonía occidental.",
-        "texto": "se elaboró una nueva historia de la «revolución atlántica» con la finalidad de encuadrar las revoluciones europeas y americana."
-    },
-    {
-        "fecha": "23.02.1981",
-        "evento": "Intento de golpe de Estado en España (23-F).",
-        "analisis": "El autor lo compara con la mentira francesa de 1791 como un consenso que oculta la verdad.",
-        "texto": "la circunstancia española del 23-F, donde el consenso de los editores de la opinión pública proclamó el dogma de un rey salvador."
-    },
-    {
-        "fecha": "01.01.1983",
-        "evento": "Estudio de Blanning sobre la expansión francesa.",
-        "analisis": "Desmitifica la revolución democrática europea, viéndola solo como expansión militar de la República.",
-        "texto": "Lo que es descrito por la escuela atlantista como una gran revolución democrática, fue en realidad nada más que la expansión militar."
-    },
-    {
-        "fecha": "01.01.1988",
-        "evento": "Publicación del Dictionnaire critique de la Révolution française.",
-        "analisis": "Furet y Ozouf refuerzan el mito democrático a pesar de la evidencia histórica contraria.",
-        "texto": "El mito de la revolución democrática no sólo sigue vigente. Ha sido reforzado en el Dictionnaire critique de la Révolution française."
-    },
-    {
-        "fecha": "14.07.1989",
-        "evento": "Bicentenario de la Revolución Francesa.",
-        "analisis": "El autor critica la falta de rigor intelectual en la gran producción editorial de esta efeméride.",
-        "texto": "la historiografía actual sobre la Revolución, al abandonar el método marxista, ha perdido en rigor intelectual."
-    },
-    {
-        "fecha": "09.11.1989",
-        "evento": "Derrumbamiento del muro de Berlín.",
-        "analisis": "Coincidencia temporal que resalta el contraste entre el colapso del bloque soviético y el mito revolucionario francés.",
-        "texto": "Al coincidir el derrumbamiento del muro de Berlín con el segundo centenario de la Revolución francesa."
-    },
-    {
-        "fecha": "01.01.1991",
-        "evento": "James Ceaser y el ideal francés frente al americano.",
-        "analisis": "Se destaca la diferencia entre la democracia institucional y la retórica sentimental europea.",
-        "texto": "Allí, democracia institucional; aquí, «un ideal más elevado» (James Ceaser, 1991), en retórica sentimental."
-    },
-    {
-        "fecha": "01.01.1793",
-        "evento": "Debate sobre el derecho a la insurrección.",
-        "analisis": "Condorcet y Robespierre chocan sobre la posibilidad de legalizar la rebelión.",
-        "texto": "El debate entre Condorcet y Robespierre sobre la posibilidad o imposibilidad de institucionalizar el derecho a la insurrección."
-    },
-    {
-        "fecha": "01.11.1793",
-        "evento": "Ruptura definitiva con los ideales del 89.",
-        "analisis": "El jacobinismo se aleja de la libertad de asociación y opinión para imponer su 'espíritu público'.",
-        "texto": "La ruptura jacobina con los ideales del 89 no podía ser más evidente."
-    }
+	{
+    	"fecha": "14.07.1789",
+    	"evento": "Toma de la prisión de la Bastilla",
+    	"analisis": "Para García-Trevijano, la toma de la Bastilla no es un acontecimiento relevante a nivel político, y no alteró el equilibrio de poder en Francia cuando se produjo. Sin embargo, el discurso alarmista que construyó la aristocracia en torno a este hecho fue determinante para crear la idea de que una revolución de un pueblo que piensa de manera opuesta a la clase gobernante era posible, y que la opinión popular podría llegar a ser determinante en los acontecimiento políticos.",
+    	"texto": "Los acontecimientos de aquel famoso 14 de julio de 1789 dejaron sin aliento al espíritu gótico del absolutismo y a la opinión ilustrada de la Asamblea Nacional. [...] Pero la realidad de lo acontecido aquel día no permite darle mayor importancia que la de un mito conscientemente elaborado [...]  sin finalidad ni dirección política.  [...]  La toma de la Bastilla trasciende al mundo como símbolo de una Revolución que no ha tenido lugar. Pero lo revolucionario, como lo percibió Kant, no fue el hecho en sí, sino el estupor entusiasta que produjo en el público que no había intervenido en el acontecimiento. [...] El 14 de julio cambió por completo el sentido de la opinión pública, que dejó de ser un juicio de cognición sobre la verdad científica o moral del mundo político, para convertirse en un espontáneo tribunal que juzgaba, por el entusiasmo o el rechazo de los espectadores, la razón de progreso y de humanidad en los acontecimientos políticos. Lo que importa conocer a partir del 14 de julio no es tanto el estado y la influencia de la opinión en los acontecimientos, de la que los periodistas y las sociedades populares dan el tono diario, sino la evolución de la opinión pública sobre el hecho mismo de la Revolución. [...] El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución, quiso cimentar la III República con los materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94. Ahí y así, creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa. La maniobra de Aulard no pudo ser más anacrónica y arbitraria. Todo consistió en unir la Declaración de derechos del 89 con la extensión del sufragio en la Constitución jacobina del 93, que además nunca entró en vigor."
+	},
+{
+    	"fecha": "01.02.1787",
+    	"evento": "Asamblea de Notables",
+    	"analisis": "La Asamblea de Notables ejemplifica que los debates metafísicos y abstractos propios de la Ilustración no podían responder a los problemas políticos de Francia, abriendo la puerta a un cambio en el tipo de opinión pública y a la revolución política.",
+    	"texto": "El momento ilustrado y reformista de la opinión perdura desde la Asamblea de Notables de 1787, cuyo fracaso motivó la convocatoria de los Estados Generales, hasta la huida del rey a Varennes el 21 de junio de 1791."
+	},
+{
+    	"fecha": "21.06.1791",
+    	"evento": "Huida del Rey",
+    	"analisis": "",
+    	"texto": ""
+	},
+{
+    	"fecha": "15.07.1791",
+    	"evento": "Decreto del secuestro del Rey",
+    	"analisis": "El hecho de que la Asamblea decidiese mentir de manera consciente y consensuada al pueblo francés provocó que dicho pueblo desarrollase su propia opinión en contra de sus gobernantes, facilitando la revolución republicana de los jacobinos.",
+    	"texto": "El momento popular y revolucionario dura desde el Decreto de la Asamblea de 15 de julio de 1791, dictaminando que el rey había sido secuestrado, hasta la conspiración reaccionaria del 9 de Termidor de 1794 contra el Terror. [...]  Pero Barnave -que nos legó desde la prisión una breve pero maravillosa interpretación de la Revolución que anticipa la de Marx- no comprendió que la   huida del rey a Varennes, y la mentira que él mismo hizo decir a la Constituyente, decretando que había sido secuestrado, dieron el pistoletazo de salida a la verdadera carrera de la Revolución: la del pueblo contra sus representantes políticos. Barnave quiso acabar la revolución de los abogados reformistas con una mentira parlamentaria. Pero este engaño al sentido común encendió la mecha de la revolución republicana. [...]  La fecha que marca la ruptura con las ideas reformistas de la Ilustración y con el Siglo de las Luces, la fecha que inaugura la modernidad con la introducción de la libertad de pensamiento, y no sólo la de expresión, en la formación de la opinión pública, no es la del 14 de julio del 89, sino la de 15 de julio del 91. Condorcet se vuelve republicano y el único predemócrata de la Revolución. [...] Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad."
+	},
+{
+    	"fecha": "12.07.1791",
+    	"evento": "Discurso republicano de Condorcet",
+    	"analisis": "Condorcet, según Garcia-Trevijano, es capaz de concebir la República como una solución intelectual a la situación de Francia, anticipándose a los acontecimientos.",
+    	"texto": "Tres días antes del mentiroso decreto de la Asamblea sobre el rapto del rey, Condorcet lee en el Círculo Social una declaración a favor de la República, negando que fuera necesario un rey para la conservación de la libertad. Pero 290 diputados denuncian la suspensión de las funciones reales como un peligroso ínterin republicano que sería manipulado por un partido de «políticos y anarquistas» presidido por La Fayette. Aunque éste se declaró entonces calumniado, confesó luego en sus Memorias que, en efecto, la República había sido propuesta como realidad inmediata, en casa de su amigo La Rochefoucauld, por Dupont de Nemours."
+	},
+{
+    	"fecha": "09.11.1799",
+    	"evento": "18 de Brumario: Golpe de Estado de Napoleón",
+    	"analisis": "",
+    	"texto": ""
+	},
+{
+    	"fecha": "04.08.1789",
+    	"evento": "Renuncia de la nobleza a sus privilegios.",
+    	"analisis": "La opinión ilustrada hegemónica entre los aristócratas vio en el mito de la Bastilla un argumento emocional y emotivo para, en una especie de histeria colectiva, renunciar a su carácter de nobles. En parte por argumentos filosóficos, y en parte por miedo a ser ajusticiados.",
+    	"texto": "El mito de la toma de la Bastilla, a pesar de su falsedad o de su inocuidad política, engendró al instante una opinión pública, irracional y emotiva, que determinó la renuncia a los derechos feudales por la aristocracia, tras el Gran Miedo de comienzos del estío del 89, y la coalición de las monarquías europeas contra Francia. Estas consecuencias hubieran sido imposibles si antes de la toma de la Bastilla no existiera ya una opinión pública reformista, racional e ilustrada, contraria a los privilegios del orden feudal y al absolutismo de las monarquías."
+	},
+{
+    	"fecha": "30.11.1795",
+    	"evento": "Conjura de los Iguales",
+    	"analisis": "Babeuf intentó dar un golpe de Estado contra el directorio para solucionar los problemas de desabastecimiento que había en Francia. La idea de Babeuf era imponer en toda Francia el mismo sistema que se usaba para alimentar al ejército. Pese a su fracaso, la Conjura de los Iguales se considera el germen del comunismo moderno.",
+    	"texto": "No se dieron cuenta de que los forjadores de los hechos productores de la opinión pública revolucionaria, desde la toma de la Bastilla hasta la Conjuración de los Iguales [...] fueron los marginados de la Alta Ilustración, los proscritos de la Enciclopedia y de la Academia"
+	},
+{
+    	"fecha": "05.10.1789",
+    	"evento": "Marcha de las mujeres a Versalles",
+    	"analisis": "Miles de mujeres realizaron a pie el camino entre París y Versalles para llevar a la familia real a París. Pensaron que con este gesto se acabaría la escasez de alimentos en la capital. Gracias a esto, los revolucionarios pudieron controlar mucho mejor las acciones de Luis XVI y Maria Antonieta.",
+    	"texto": "No se dieron cuenta de que los forjadores de los hechos productores de la opinión pública revolucionaria, desde la toma de la Bastilla hasta la Conjuración de los Iguales y desde la marcha de las mujeres a Versalles hasta la jornada republicana del 10 de agosto fueron los marginados de la Alta Ilustración, los proscritos de la Enciclopedia y de la Academia"
+	},
+{
+    	"fecha": "10.08.1792",
+    	"evento": "Asalto al Palacio de las Tullerías",
+    	"analisis": "",
+    	"texto": "No se dieron cuenta de que los forjadores de los hechos productores de la opinión pública revolucionaria, desde la toma de la Bastilla hasta la Conjuración de los Iguales y desde la marcha de las mujeres a Versalles hasta la jornada republicana del 10 de agosto fueron los marginados de la Alta Ilustración, los proscritos de la Enciclopedia y de la Academia [...] Robespierre, que sin embargo no se pronunció por la República antes del 10 de agosto, como hicieron Danton, Marat y Condorcet."
+	},
+{
+    	"fecha": "16.07.1791",
+    	"evento": "Recogida de firmas de Les Cordeliers",
+    	"analisis": "Este hecho muestra que los clubes políticos fuera del Estado estaban organizándose de manera independiente para cambiar la situación política. Garcia-Trevijano ve en estos acontecimientos a la opinión popular y republicana en marcha.",
+    	"texto": "El 16 de julio se unen, en los Feuillants, la masa jacobina que sigue a los triunviros, el grupo de Le Chapelier y los amigos de La Fayette, con el fin de mantener puntualmente la Constitución. El mismo día, el Club de los Cordeliers, inspirado por Danton y Hébert, organiza la recogida de firmas para pedir la destitución del rey."
+	},
+{
+    	"fecha": "17.07.1791",
+    	"evento": "Masacre del Campo de Marte",
+    	"analisis": "Estalla un enfrentamiento violento entre los Ilustrados reformistas y los Republicanos a raíz de la mentira de la Asamblea sobre la huida del rey. Los jacobinos reaccionan rápidamente y deciden usar esta situación para hacerse con el poder",
+    	"texto": "El día 17, La Fayette, al mando de la Guardia Nacional, fusila a los que estaban firmando la petición en el Campo de Marte. El mismo día, los Feuillants dirigen una circular a las sociedades filiales de los jacobinos pidiendo su adhesión y la ruptura con la minoría que se ha levantado contra un Decreto de la Asamblea"
+	},
+{
+    	"fecha": "18.07.1791",
+    	"evento": "Robespierre rechaza la Constitución",
+    	"analisis": "Buscando argumentos para ello, Robespierre decide que lo importante no es Constitución, sino los principios que la inspiran.",
+    	"texto": "El día 18, Robespierre proclama, en otra circular, la lealtad de los jacobinos no a la legalidad de la Constitución, sino a la legitimidad de unos principios propios a fundar una Constitución."
+	},
+
+{
+    	"fecha": "14.09.1791",
+    	"evento": "Luis XVI se opone a Robespierre",
+    	"analisis": ".",
+    	"texto": "El día 14 de septiembre, Luis XVI jura ante la Asamblea «emplear todo el poder que le es delegado para hacer ejecutar y mantener la Constitución»."
+	},
+{
+    	"fecha": "28.09.1791",
+    	"evento": "Brissot apoya tímidamente a Robespierre",
+    	"analisis": ".",
+    	"texto": "El 28 de septiembre, Brissot, el futuro líder de la Gironda, que se había quedado con Robespierre, hizo un discurso defendiendo el derecho de los clubes a denunciar las malas leyes, y a someter la conducta de los funcionarios al juicio del tribunal de la opinión pública."
+	},
+
+{
+    	"fecha": "29.09.1791",
+    	"evento": "Se prohíben los clubes políticos",
+    	"analisis": ".",
+    	"texto": "Por fin, el 29 de septiembre, el famoso Decreto Le Chapelier, tan incomprendido por el marxismo, prohibió las sociedades políticas y sindicales para que entre el Estado y los ciudadanos no pudiera interponerse ningún cuerpo intermedio. Durante la noche de ese día crucial, Robespierre declaró la nulidad de toda tentativa legal contra los clubes de opinión."
+	},
+
+{
+    	"fecha": "12.10.1791",
+    	"evento": "Los Jacobinos abren sus puertas al público general",
+    	"analisis": ".",
+    	"texto": "En el mes de septiembre los jacobinos, que se habían aliado con dieciséis sociedades parisinas favorables a la República, hacen suyo el artículo del reglamento de los Cordeliers, que ordenaba denunciar al tribunal de la opinión pública los abusos de los diferentes poderes, y cualquier especie de atentado o violación a los derechos del hombre. Y para que ese nuevo tribunal no fuera una instancia retórica, el club de la Rue Saint Honoré decidió, el 12 de octubre, abrir las puertas de los jacobinos al público espectador"
+	},
+
+{
+    	"fecha": "20.06.1789",
+    	"evento": "Juramento del Juego de Pelota",
+    	"analisis": ".",
+    	"texto": "Aunque la diputación bretona tuvo la mayor determinación política en la fase reformista, lo cierto es que desde junio del 89 comenzó ya la incomprensión de la Asamblea, dominada por una opinión pública abstracta y racional, respecto a las necesidades prácticas cuya solución reclamaba el comité de electores de París, instalado en la Comuna del Antiguo Régimen, y en el que se encontraban hombres tan significativos como Danton."
+	},
+{
+    	"fecha": "31.05.1793",
+    	"evento": "Jornadas insurreccionales de la Comuna de París contra los girondinos",
+    	"analisis": ".",
+    	"texto": "Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad. [...] Bajo este espíritu público, sin opinión pública, se hizo posible el gran drama de la Revolución: la claudicación de la Convención ante la Comuna y la liquidación de la Gironda el 2 de junio del 93. La sangre de los girondinos marcó el final de las esperanzas democráticas que la Revolución llevaba inconscientemente en sus entrañas, y el comienzo del mito democrático del Terror. El mito de una democracia social, cuya realización exigía el sacrificio de la libertad y de la legalidad a la igualdad."
+	},
+{
+        "fecha": "02.09.1792",
+    	"evento": "Masacres de septiembre del 92",
+    	"analisis": ".",
+    	"texto": "Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad. Pero los episodios de las masacres de septiembre del 92 en las prisiones de París, el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública. Fueron estos hechos dramáticos, y no la confrontación política de las ideas, los que determinaron el descarte del proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos, y el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat."
+	},
+{
+    	"fecha": "21.01.1793",
+    	"evento": "Ejecución de Luis XVI",
+    	"analisis": ".",
+    	"texto": "Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad. Pero los episodios de las masacres de septiembre del 92 en las prisiones de París, el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública. Fueron estos hechos dramáticos, y no la confrontación política de las ideas, los que determinaron el descarte del proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos, y el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat."
+	},
+{
+    	"fecha": "05.04.1793",
+    	"evento": "Traición del general Dumouriez",
+    	"analisis": ".",
+    	"texto": "Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad. Pero los episodios de las masacres de septiembre del 92 en las prisiones de París, el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública. Fueron estos hechos dramáticos, y no la confrontación política de las ideas, los que determinaron el descarte del proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos, y el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat."
+	},
+{
+    	"fecha": "15.02.1793",
+    	"evento": "El proyecto de Constitución del Marqués de Condorcet es presentado ante la Comisión Nacional francesa",
+    	"analisis": ".",
+    	"texto": "Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad. Pero los episodios de las masacres de septiembre del 92 en las prisiones de París, el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública. Fueron estos hechos dramáticos, y no la confrontación política de las ideas, los que determinaron el descarte del proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos, y el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat. [...] La suspensión de la entrada en vigor de la Constitución del 93 no fue un hecho aleatorio producido por las circunstancias del momento contra la voluntad de la dirección jacobina. Era la idea de Revolución la que se ponía a sí misma en juego con el respeto a la legalidad de las libertades públicas constitucionales y de los derechos civiles. Condorcet había resuelto la incompatibilidad de la Revolución con la Constitución, admitiendo la inevitabilidad de una ilegalidad provisional. Pero esta provisionalidad tenía que convertirse en definitiva desde que la Revolución dejó de ser, con Saint-Just y Robespierre, un simple cambio externo en la forma de existencia colectiva de la nación, para significar la transformación de las conciencias individuales desde el egoísmo hacia la virtud. [...] Pero lo más triste en las opiniones sobre la Revolución ha sido la ceguera del pensamiento europeo, al que Hannah Arendt reprochó no haber tenido en cuenta la democracia americana. Mi reproche es aún más grave: no haber comprendido la causa del estrepitoso fracaso del parlamentarismo continental, y no distinguir entre democracia política, cuyo primer esbozo de separación de poderes está en la Constitución girondina de Condorcet, y democracia social, sin separación de poderes, cuyo primer diseño está, mejor que en la Constitución de Robespierre, en las medidas económicas del gobierno revolucionario."
+	},
+{
+    	"fecha": "02.06.1793",
+    	"evento": "La Montaña toma el control total y se adopta la Constitución Montañesa o de Robespierre el 24 de Junio",
+    	"analisis": ".",
+    	"texto": "Durante los dos años escasos que transcurren desde el Decreto de la mentira oficial hasta la cobarde entrega de los girondinos a la venganza popular de la Comuna, tuvo lugar el debate sobre la libertad. Pero los episodios de las masacres de septiembre del 92 en las prisiones de París, el proceso y ejecución de Luis XVI, y la traición del general Dumouriez en abril del 93, alteraron la evolución de la opinión pública. Fueron estos hechos dramáticos, y no la confrontación política de las ideas, los que determinaron el descarte del proyecto constitucional de predemocracia política, que redactó Condorcet en la primavera del 93, en nombre de los girondinos, y el triunfo de la embrionaria democracia social que aprobó la Convención dominada por la Montaña de Robespierre, Danton y Marat. [...] La suspensión de la entrada en vigor de la Constitución del 93 no fue un hecho aleatorio producido por las circunstancias del momento contra la voluntad de la dirección jacobina. Era la idea de Revolución la que se ponía a sí misma en juego con el respeto a la legalidad de las libertades públicas constitucionales y de los derechos civiles. Condorcet había resuelto la incompatibilidad de la Revolución con la Constitución, admitiendo la inevitabilidad de una ilegalidad provisional. Pero esta provisionalidad tenía que convertirse en definitiva desde que la Revolución dejó de ser, con Saint-Just y Robespierre, un simple cambio externo en la forma de existencia colectiva de la nación, para significar la transformación de las conciencias individuales desde el egoísmo hacia la virtud. [...] Bajo este espíritu público, sin opinión pública, se hizo posible el gran drama de la Revolución: la claudicación de la Convención ante la Comuna y la liquidación de la Gironda el 2 de junio del 93. La sangre de los girondinos marcó el final de las esperanzas democráticas que la Revolución llevaba inconscientemente en sus entrañas, y el comienzo del mito democrático del Terror. El mito de una democracia social, cuya realización exigía el sacrificio de la libertad y de la legalidad a la igualdad. [...] Pero lo más triste en las opiniones sobre la Revolución ha sido la ceguera del pensamiento europeo, al que Hannah Arendt reprochó no haber tenido en cuenta la democracia americana. Mi reproche es aún más grave: no haber comprendido la causa del estrepitoso fracaso del parlamentarismo continental, y no distinguir entre democracia política, cuyo primer esbozo de separación de poderes está en la Constitución girondina de Condorcet, y democracia social, sin separación de poderes, cuyo primer diseño está, mejor que en la Constitución de Robespierre, en las medidas económicas del gobierno revolucionario. [...] El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución, quiso cimentar la III República con los materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94. Ahí y así, creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa. La maniobra de Aulard no pudo ser más anacrónica y arbitraria. Todo consistió en unir la Declaración de derechos del 89 con la extensión del sufragio en la Constitución jacobina del 93, que además nunca entró en vigor."
+},
+{
+    	"fecha": "10.10.1793",
+    	"evento": "Discurso de Saint-Just a la Convención 1 cita",
+    	"analisis": ".",
+    	"texto": "Saint-Just lo expresó sin ambages a la Convención cuatro meses después: «La Constitución devendría garantía de los atentados contra la libertad, porque carecería de la violencia necesaria para reprimirlos. Es imposible que las leyes revolucionarias sean ejecutadas si el gobierno no es constituido revolucionariamente.» La arbitrariedad del poder monárquico, que los constituyentes del 89 quisieron suprimir, retornó al escenario de la Revolución con la arbitrariedad de la dictadura jacobina. Cuando Saint-Just dijo que «todo debe ser permitido a los que van en la dirección de la Revolución», la guillotina reemplazó a la ley como instrumento revolucionario."
+	},
+{
+    	"fecha": "26.02.1794",
+    	"evento": "Discurso de Saint-Just a la Convención 2 cita",
+    	"analisis": ".",
+    	"texto": "Saint-Just lo expresó sin ambages a la Convención cuatro meses después: «La Constitución devendría garantía de los atentados contra la libertad, porque carecería de la violencia necesaria para reprimirlos. Es imposible que las leyes revolucionarias sean ejecutadas si el gobierno no es constituido revolucionariamente.» La arbitrariedad del poder monárquico, que los constituyentes del 89 quisieron suprimir, retornó al escenario de la Revolución con la arbitrariedad de la dictadura jacobina. Cuando Saint-Just dijo que «todo debe ser permitido a los que van en la dirección de la Revolución», la guillotina reemplazó a la ley como instrumento revolucionario."
+	},
+{
+    	"fecha": "28.07.1794",
+    	"evento": "Ejecución de Maximilien Robespierre, Louis de Saint-Just y Georges Couthon",
+    	"analisis": ".",
+    	"texto": "Y cuando en el verano del 94 la reacción antiterrorista envió a la guillotina a Robespierre, Saint-Just y Couthon, la libertad que reclamó contra la intervención del Estado en la economía ya no fue la libertad política deseada por Condorcet, Miranda y la Gironda, sino la libertad civil de los reformistas del 89."
+	},
+{
+    	"fecha": "22.08.1795",
+    	"evento": "Se promulga la Constitución de 1795",
+    	"analisis": ".",
+    	"texto": "La Constitución liberal y reaccionaria del 95, la de los hombres del Directorio de Barras, que presentó Boisy d'Anglas, puso el acento sobre los deberes del ciudadano para frenar la conciencia política en la opinión pública. A cambio de reconocer las libertades civiles, esta Constitución organizó de tal manera los poderes del Estado que la libertad política, convertida en oligopolio de los que se llamó «perpetuos», se hizo indeseable para los gobernados. Este fue el modelo constitucional que fundó el Estado moderno y el parlamentarismo europeo. Guizot y Benjamín Constant le dieron luego, en uno de los cambios políticos de la Restauración, la coherencia ideológica que sirvió de base al doctrinarismo liberal y al parlamentarismo continental."
+	},
+{
+    	"fecha": "02.12.1852",
+    	"evento": "II Imperio francés con Napoleón III",
+    	"analisis": ".",
+    	"texto": "La farsa republicana se oficializó plenamente con el II Imperio. Y la impostura de la democracia liberal o parlamentaria comenzó con la III República. La famosa síntesis republicana de 1875-1880, la de los derechos del hombre y el gobierno de los saberes positivos, la de los ideales del 89 y la ciencia positiva de Comte, no trascendió del campo educativo abordado por Ferry."
+	},
+{
+    	"fecha": "04.09.1870",
+    	"evento": "III República francesa",
+    	"analisis": ".",
+    	"texto": "La farsa republicana se oficializó plenamente con el II Imperio. Y la impostura de la democracia liberal o parlamentaria comenzó con la III República. La famosa síntesis republicana de 1875-1880, la de los derechos del hombre y el gobierno de los saberes positivos, la de los ideales del 89 y la ciencia positiva de Comte, no trascendió del campo educativo abordado por Ferry. El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución, quiso cimentar la III República con los materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94. Ahí y así, creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa. La maniobra de Aulard no pudo ser más anacrónica y arbitraria. Todo consistió en unir la Declaración de derechos del 89 con la extensión del sufragio en la Constitución jacobina del 93, que además nunca entró en vigor."
+	},
+{
+    	"fecha": "25.11.1885",
+    	"evento": "Creación de la cátedra de Historia de la Revolución Francesa en la Sorbona, François-Victor-Alphonse Aulard fue el primer titular",
+    	"analisis": ".",
+    	"texto": "El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución, quiso cimentar la III República con los materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94. Ahí y así, creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa. La maniobra de Aulard no pudo ser más anacrónica y arbitraria. Todo consistió en unir la Declaración de derechos del 89 con la extensión del sufragio en la Constitución jacobina del 93, que además nunca entró en vigor."
+	},
+{
+    	"fecha": "26.08.1789",
+    	"evento": "Se aprueba la Declaración de los Derechos del Hombre y del Ciudadano",
+    	"analisis": ".",
+    	"texto": "El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución, quiso cimentar la III República con los materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94. Ahí y así, creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa. La maniobra de Aulard no pudo ser más anacrónica y arbitraria. Todo consistió en unir la Declaración de derechos del 89 con la extensión del sufragio en la Constitución jacobina del 93, que además nunca entró en vigor."
+	},
+{
+    	"fecha": "27.07.1794",
+    	"evento": "Reacción termidoriana - 9 de Termidor de 1794 - Golpe de estado que acaba con el reinado del Terror jacobino",
+    	"analisis": ".",
+    	"texto": "El momento popular y revolucionario dura desde el Decreto de la Asamblea de 15 de julio de 1791, dictaminando que el rey había sido secuestrado, hasta la conspiración reaccionaria del 9 de Termidor de 1794 contra el Terror. [...] El momento elitista y liberal madura desde la caída de Robespierre hasta el golpe de Estado napoleónico de 18 de Brumario de 1799. [...] El bloque revolucionario de que habló Clemenceau, en el primer centenario de la Revolución, quiso cimentar la III República con los materiales heredados de la revolución liberal del 89, de la revolución igualitaria del 93 y de la reacción termidoriana del 94. Ahí y así, creando una cátedra de la Revolución en la Sorbona, se fraguó el mito de la democracia francesa. La maniobra de Aulard no pudo ser más anacrónica y arbitraria. Todo consistió en unir la Declaración de derechos del 89 con la extensión del sufragio en la Constitución jacobina del 93, que además nunca entró en vigor."
+	}
 ]
